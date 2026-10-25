@@ -1,5 +1,14 @@
 # 视频发布工作台 · 安装包下载
 
+## Windows 免安装版（推荐）
+
+[下载 Windows 64 位免安装 ZIP](https://github.com/qijv/local-video-publisher-releases/releases/download/v0.1.0-windows-portable.1/LocalVideoPublisher_0.1.0_Windows_x64_portable.zip) · [版本说明与校验值](https://github.com/qijv/local-video-publisher-releases/releases/tag/v0.1.0-windows-portable.1)
+
+完整解压后双击 `LocalVideoPublisher.exe`。需要 Microsoft Edge WebView2 Runtime，无需 Node、Rust 或 Chrome。此版未签名，首次运行仍可能有 Windows 来源提醒。已在一台 Windows 11、一个真实账号验证视频上传、标题、多行描述和话题自动填写，停在发布前；其他电脑与多账号仍待验证。
+
+Mac 版保持原 v0.1.0 不变，下载链接在下方。原 Windows EXE 安装包作为旧版本保留，Windows 用户优先使用上面的免安装 ZIP。
+
+
 [**打开 v0.1.0 下载页面**](https://github.com/qijv/local-video-publisher-releases/releases/tag/v0.1.0)
 
 本仓库仅提供安装包、使用说明与文件校验值，不包含应用源码。无需注册或登录 GitHub 即可下载。
